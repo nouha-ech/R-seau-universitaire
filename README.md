@@ -28,11 +28,11 @@ Il s’agit d’une **plateforme de réseau social universitaire** permettant au
 
 ## Conception 
 ### Modèle Conceptuel des Données (MCD)
- ![MCD](mcd.png) 
+ ![MCD](./mcd.PNG) 
  ### Modèle Logique des Données (MLD) 
- ![MLD](mld.png) 
+ ![MLD](./mld.PNG) 
  ### Modèle Physique des Données (MPD)
-  ![MPD](mpd.png)
+  ![MPD](./mpd.PNG)
 ---
 
 ##  Structure de la Base de Données
