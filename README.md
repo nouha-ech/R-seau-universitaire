@@ -26,6 +26,15 @@ Il s’agit d’une **plateforme de réseau social universitaire** permettant au
 
 ---
 
+## Conception 
+### Modèle Conceptuel des Données (MCD)
+ ![MCD](mcd.png) 
+ ### Modèle Logique des Données (MLD) 
+ ![MLD](mld.png) 
+ ### Modèle Physique des Données (MPD)
+  ![MPD](mpd.png)
+---
+
 ##  Structure de la Base de Données
 - **Profil** : informations des utilisateurs  
 - **Département** : organisation des profils par discipline  
